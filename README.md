@@ -11,6 +11,8 @@ Then the next generation is created by taking copies of the best scorers from th
 
 In the end I successfully got inteligent behavior of moving away from walls and towards pellets!!
 
+
+
 Important Files
 - GeneticAlgo.py
    - Where all the genetic breeding and mutating takes place
@@ -20,6 +22,8 @@ Important Files
    - The 1 combinde file that combinds the previous 2 and runs the code generation by generation and prints informative output
 
 - The rest of the files are testing or insignifigant
+
+
 
 
 Addendum:
