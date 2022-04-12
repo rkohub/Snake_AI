@@ -13,7 +13,7 @@ In the end I successfully got inteligent behavior of moving away from walls and 
 
 
 
-Important Files
+#Important Files
 - GeneticAlgo.py
    - Where all the genetic breeding and mutating takes place
 - RunSnake.py
@@ -25,10 +25,10 @@ Important Files
 
 
 
-Future Progress Ideas
+#Future Progress Ideas
 - Store Save data for the best snakes brains for replay and continuation after code stops
 
 
 
-Addendum:
+#Addendum:
 - My origional fitness function had no limit to how many points it gave to movement without colliding into walls or self, so the bots learned to move in infinite loops or circles. I would call this intellingent, but not intended, so I capped the fitness gained from moving at 1 point which is equivalent to 1 pellet collection.
